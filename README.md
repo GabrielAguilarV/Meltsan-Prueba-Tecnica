@@ -23,5 +23,5 @@ Puedes obtener este repositorio de dos maneras:
 git clone https://github.com/GabrielAguilarV/Meltsan-Prueba-Tecnica.git
 ```
 
-> 🔍 **IMPORTANTE**: Cada carpeta (`Prueba_Tecnica_BackEnd` y `Prueba_Tecnica_FrontEnd`) contiene su propio `README.md` con instrucciones detalladas para levantar cada proyecto.  
+> 🔍 **IMPORTANTE**: Cada carpeta (`Prueba_Tecnica_BackEnd` y `Prueba_Tecnica_FrontEnd`) contiene su propio `README.md` o `HELP.md` con instrucciones detalladas para levantar cada proyecto.  
 > **Por favor, léelos cuidadosamente antes de continuar.**
