@@ -3,7 +3,6 @@
 
 1. **Configura la base de datos:**
    - Asegúrate de tener **MySQL** instalado y en ejecución, o bien, puedes levantar la base de datos utilizando Docker.
-   - Crea una nueva base de datos para el proyecto si no usas Docker.
    - Ejecuta el script SQL proporcionado (`product.sql`), ubicado en la raíz del monorepo, para crear las tablas necesarias.
    - Alternativamente, puedes utilizar el archivo `docker-compose.yml` para crear automáticamente la base de datos y las tablas.
 
