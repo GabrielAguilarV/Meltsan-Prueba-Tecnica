@@ -28,5 +28,8 @@
     - Si estás utilizando un IDE como IntelliJ IDEA o Eclipse, puedes ejecutar la clase principal directamente desde el IDE.
 
 4. **Accede a la aplicación:**
-    - Por defecto, la aplicación estará disponible en `http://localhost:8080`.
+    - Por defecto, la aplicación estará disponible en `http://localhost:8080`
+
+5. **Consulta la documentación de la API:**
+   - Puedes ver la documentación interactiva generada por Swagger en [http://localhost:8080/swagger-ui/index.html](http://localhost:8080/swagger-ui/index.html).
 _
